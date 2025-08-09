@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T20:18:09.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EShope\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T20:15:59.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EShope\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EShope\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:04:49.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "EShope\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T14:56:09.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
