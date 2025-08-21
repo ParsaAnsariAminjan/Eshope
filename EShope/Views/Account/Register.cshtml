@@ -1,0 +1,53 @@
+﻿@using EShope.ViewModels.Account
+
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "صفحه ثبت نام";
+}
+
+
+
+
+<div class="container">
+	<section id="form">
+		<!--form-->
+		<div class="row">
+            <div class="col-sm-6 col-sm-offset-3">
+				<div class="signup-form justify-content-center">
+					<!--sign up form-->
+					<h2>ثبت نام کاربـر جدیـد</h2>
+					<form method="post" asp-area="" asp-controller="Account" asp-action="Register">
+
+						<!--به هرکدام از این فیلد ها یک name هم اضافه میکنیم که در اکشن بگیریمش-->
+
+						<input asp-for="Email" placeholder="آدرس ایمیـل" />
+						<input asp-for="Password" placeholder="رمـز عبـور" />
+						<input asp-for="ConfirmPassword" placeholder="تکرار رمز عبور" />
+						<button type="submit"  class="btn btn-default">ثبت نام</button>
+
+						<!--
+							اگر بخواهیم که از model در صفحه استفاده نکنیم به این صورت هست و فیلد ها باید هم نام با فیلد ها ویو مدل باشد
+							ولی اگر از مدل در صفحه استفاده کنیم به جای نیم به صورت بالا ای اس پی فور نوشته میشود
+												<input type="email" name="Email" placeholder="آدرس ایمیـل" />
+						<input type="password" name="Password" placeholder="رمـز عبـور" />
+						<input type="password" name="ConfirmPassword" placeholder="تکرار رمز عبور" />
+						<button type="submit"  class="btn btn-default">ثبت نام</button>
+
+
+
+						-->
+
+
+					</form>
+				</div><!--/sign up form-->
+			</div>
+		</div>
+	</section>
+</div>
+<!--/form-->
+
+
+
+
+
+

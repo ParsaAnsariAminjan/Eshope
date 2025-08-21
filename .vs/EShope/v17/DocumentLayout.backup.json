@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821162906_Init-UserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EShope\\Migrations\\20250821162906_Init-UserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\catalog\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\entities\\catalog\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\blog\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\entities\\blog\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821130113_Add-Article-Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EShope\\Migrations\\20250821130113_Add-Article-Db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821121600_Banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EShope\\Migrations\\20250821121600_Banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\migrations\\20250820203110_crete db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\migrations\\20250820203110_crete db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +83,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:38:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EShope\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EShope\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:32:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250821162906_Init-UserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821162906_Init-UserTable.cs",
+              "RelativeDocumentMoniker": "EShope\\Migrations\\20250821162906_Init-UserTable.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821162906_Init-UserTable.cs",
+              "RelativeToolTip": "EShope\\Migrations\\20250821162906_Init-UserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:29:06.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Account\\User.cs",
+              "RelativeDocumentMoniker": "EShope\\Entities\\Account\\User.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Account\\User.cs",
+              "RelativeToolTip": "EShope\\Entities\\Account\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:02:13.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EShope\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "EShope\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:52:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Blog\\Article.cs",
+              "RelativeDocumentMoniker": "EShope\\Entities\\Blog\\Article.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Blog\\Article.cs",
+              "RelativeToolTip": "EShope\\Entities\\Blog\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:38:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EShope\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EShope\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:04:49.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250821130113_Add-Article-Db.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821130113_Add-Article-Db.cs",
+              "RelativeDocumentMoniker": "EShope\\Migrations\\20250821130113_Add-Article-Db.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821130113_Add-Article-Db.cs",
+              "RelativeToolTip": "EShope\\Migrations\\20250821130113_Add-Article-Db.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:01:13.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Catalog\\Banner.cs",
+              "RelativeDocumentMoniker": "EShope\\Entities\\Catalog\\Banner.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Catalog\\Banner.cs",
+              "RelativeToolTip": "EShope\\Entities\\Catalog\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:57:19.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EShope\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EShope\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:05:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250821121600_Banner.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821121600_Banner.cs",
+              "RelativeDocumentMoniker": "EShope\\Migrations\\20250821121600_Banner.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250821121600_Banner.cs",
+              "RelativeToolTip": "EShope\\Migrations\\20250821121600_Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:16:00.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Program.cs",
+              "RelativeDocumentMoniker": "EShope\\Program.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Program.cs",
+              "RelativeToolTip": "EShope\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T19:23:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250820203110_Crete DB.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250820203110_Crete DB.cs",
+              "RelativeDocumentMoniker": "EShope\\Migrations\\20250820203110_Crete DB.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Migrations\\20250820203110_Crete DB.cs",
+              "RelativeToolTip": "EShope\\Migrations\\20250820203110_Crete DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:31:10.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EShope\\Views\\Shared\\_Layout.cshtml",
@@ -47,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EShope\\Views\\_ViewImports.cshtml",
@@ -60,25 +277,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EShope\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EShope\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T15:04:49.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EShope\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "EShope\\Views\\Home\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-08T14:56:09.257Z",

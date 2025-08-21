@@ -1,9 +1,16 @@
+using EShope.Contex;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<ApplicationDbContext>(option =>
+{
+    option.UseSqlServer("Data Source =.;Initial Catalog= New-EshopDb;User ID=sa;Password=P@rsa1381;TrustServerCertificate=True");
+});
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
