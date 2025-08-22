@@ -23,6 +23,7 @@ namespace EShope.ViewModels.Account
         [Required(ErrorMessage = "لطفا {0} را وارد نمایید")]
         [MaxLength(20, ErrorMessage = "طول تکرار {0} وارد شده نباید بیشتر از {1} کاراکتر باشد")]
         [DataType(DataType.Password)]
+        [Compare("Password",ErrorMessage ="تکرار {0} نادرست است")]
         public string ConfirmPassword { get; set; }
 
     }

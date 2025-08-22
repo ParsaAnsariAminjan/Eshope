@@ -16,5 +16,6 @@
 	@RenderBody();
 	@await Component.InvokeAsync("SiteFooter");
 	<partial name="_FooterReferencesPartial" />
+	@RenderSection("ExtraScripts", false);
 </body>
 </html>

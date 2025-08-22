@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_footerreferencespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\_footerreferencespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_headreferencespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\components\\sitefooter\\sitefooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\shared\\_footerreferencespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\shared\\_footerreferencespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\viewcomponents\\sitefooterviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\viewcomponents\\sitefooterviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\viewcomponents\\siteheaderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\entities\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\catalog\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|solutionrelative:eshope\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CC761A-7762-40F9-A5B5-297A0910DA3B}|EShope\\EShope.csproj|c:\\users\\parsa\\downloads\\eshop\\eshope\\eshope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,25 +111,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SiteHeader.cshtml",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
-              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
-              "RelativeToolTip": "EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-22T19:16:21.9Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EShope\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EShope\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:32:49.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T20:18:09.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SiteFooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewComponents\\SiteFooterViewComponent.cs",
+              "RelativeDocumentMoniker": "EShope\\ViewComponents\\SiteFooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewComponents\\SiteFooterViewComponent.cs",
+              "RelativeToolTip": "EShope\\ViewComponents\\SiteFooterViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:32:07.342Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EShope\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "EShope\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:11:02.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_HeadReferencesPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_HeadReferencesPartial.cshtml",
               "RelativeDocumentMoniker": "EShope\\Views\\Shared\\_HeadReferencesPartial.cshtml",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_HeadReferencesPartial.cshtml*",
-              "RelativeToolTip": "EShope\\Views\\Shared\\_HeadReferencesPartial.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_HeadReferencesPartial.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Shared\\_HeadReferencesPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-22T19:08:03.609Z",
               "EditorCaption": ""
@@ -142,23 +180,35 @@
               "RelativeDocumentMoniker": "EShope\\Views\\Shared\\_FooterReferencesPartial.cshtml",
               "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_FooterReferencesPartial.cshtml",
               "RelativeToolTip": "EShope\\Views\\Shared\\_FooterReferencesPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-22T19:06:44.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "EShope\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "EShope\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwDAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T16:32:49.282Z",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Account\\Register.cshtml*",
+              "RelativeToolTip": "EShope\\Views\\Account\\Register.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T16:38:40.435Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SiteFooter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:19:36.087Z"
             },
             {
               "$type": "Document",
@@ -174,46 +224,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SiteFooter.cshtml",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
-              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
-              "RelativeToolTip": "EShope\\Views\\Shared\\Components\\SiteFooter\\SiteFooter.cshtml",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-22T19:19:36.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "EShope\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T20:18:09.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SiteFooterViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewComponents\\SiteFooterViewComponent.cs",
-              "RelativeDocumentMoniker": "EShope\\ViewComponents\\SiteFooterViewComponent.cs",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewComponents\\SiteFooterViewComponent.cs",
-              "RelativeToolTip": "EShope\\ViewComponents\\SiteFooterViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:32:07.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SiteHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
+              "RelativeDocumentMoniker": "EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
+              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
+              "RelativeToolTip": "EShope\\Views\\Shared\\Components\\SiteHeader\\SiteHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:16:21.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SiteHeaderViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewComponents\\SiteHeaderViewComponent.cs",
               "RelativeDocumentMoniker": "EShope\\ViewComponents\\SiteHeaderViewComponent.cs",
@@ -221,8 +244,7 @@
               "RelativeToolTip": "EShope\\ViewComponents\\SiteHeaderViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:27:27.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T19:27:27.367Z"
             },
             {
               "$type": "Document",
@@ -238,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EShope\\Entities\\Common\\BaseEntity.cs",
@@ -250,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Account\\User.cs",
               "RelativeDocumentMoniker": "EShope\\Entities\\Account\\User.cs",
@@ -274,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Banner.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Entities\\Catalog\\Banner.cs",
               "RelativeDocumentMoniker": "EShope\\Entities\\Catalog\\Banner.cs",
@@ -283,30 +305,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T11:57:19.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "EShope\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "EShope\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T16:38:40.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewModels\\Account\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "EShope\\ViewModels\\Account\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\Parsa\\Downloads\\Eshop\\Eshope\\EShope\\ViewModels\\Account\\RegisterViewModel.cs",
-              "RelativeToolTip": "EShope\\ViewModels\\Account\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T19:11:02.294Z"
             },
             {
               "$type": "Document",
