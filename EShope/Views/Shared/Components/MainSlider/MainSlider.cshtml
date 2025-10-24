@@ -1,0 +1,61 @@
+﻿@using EShope.Entities.Catalog
+
+
+
+@model List<Banner>
+@{
+    int Index = 0;
+}
+
+
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                       
+                        @for(int i=0;i<Model.Count; i++)
+                        {
+                            <li data-target="#slider-carousel" data-slide-to="@i" class="@(i == 0 ? "active" : "")"></li>
+                        }
+                    </ol>
+
+                    <div class="carousel-inner">
+                        @foreach (var banner in Model)
+                        {
+                            <div class="item @(Index == 0 ? "active" : "")">
+                                <div class="col-sm-6">
+                                    <h1><span>SHOP</span>CENTER</h1>
+                                    <h2>@banner.Title</h2>
+                                    <p>@banner.Text </p>
+                                    <a href="@banner.Url" class="btn btn-default get">@banner.UrlTitle</a>
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="@banner.Image" class="girl img-responsive" alt="" />
+                                    <img src="/Site/images/home/pricing.png" class="pricing" alt="" />
+                                </div>
+
+
+                            </div>
+
+
+                            Index++;
+                        }
+
+
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->

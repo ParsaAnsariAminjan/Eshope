@@ -15,5 +15,17 @@ namespace EShope.Entities.Catalog
 
         [MaxLength(500)]
         public string Url { get; set; }
+
+        [MaxLength(300)]
+        public string UrlTitle { get; set; }
+
+        [MaxLength(1000)]
+        public string? Text { get; set; }
+
+        public int DisplayOrder { get; set; }
+
+        [MaxLength(100)]
+        public string Position { get; set; }
+
     }
 }
